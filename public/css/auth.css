@@ -1,0 +1,94 @@
+.auth-pages {
+    margin: 100px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+
+
+}
+
+
+input {
+    border: 1px lightgray solid;
+    padding: 16px 10px;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 14px;
+    margin-bottom: 30px;
+
+
+}
+
+
+input[type="checkbox"] {
+    width: auto;
+}
+
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+.auth-button {
+    background: lightgray;
+    color: white;
+    border-radius: 5px;
+    padding: 12px 50px;
+
+
+}
+
+.auth-button:hover {
+
+    background: 10% orange;
+}
+
+.auth-button-hollow{
+    background: lightgray;
+    color: orange;
+    border-radius: 5px;
+    border: 1px black;
+    padding: 12px 50px;
+
+
+}
+.auth-button-hollow:hover{
+
+    background: orange;
+    color:black;
+}
+
+.auth-right {
+    border-left: 1px solid;
+    padding-left: 100px;
+
+
+}
+.input-container {
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.icon {
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+}
+.input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+.input-field:focus {
+    border: 2px solid orange;
+}
+
+
+

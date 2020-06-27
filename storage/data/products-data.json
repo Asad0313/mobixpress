@@ -1,0 +1,139 @@
+[
+  {
+    "id": 7,
+   "name": "Huawei Tab 3",
+    "price": "16000",
+    "image": "/images/1608285412.jpg",
+    "categories": "Ipad",
+    "features": {
+      "USB": "1",
+      "USB Connector": "1",
+      "Max. Charging Power": "0",
+      "Wireless LAN": "1",
+      "FM Radio Receiver": "1",
+      "GPS Antenna": "0",
+      "Camera Image Sensor": "0",
+      "Zoom": "1",
+      "Secondary Camera Placement": "0",
+      "Protection from solid materials": "0",
+      "water-resistant": "0",
+      "Talk Time": "0",
+      "Navigation Controller": "0",
+      "Focus": "0",
+      "Embedded-Hardware": "0",
+      "Battery": "0",
+      "Resolution": "0"
+    }
+  },
+  {
+    "id": 8,
+    "name": "AirPods 2",
+    "price": "22000",
+    "image": "/images/641411549.jpg",
+    "categories": "Accessories",
+    "features": {
+      "USB": "0",
+      "USB Connector": "1",
+      "Max. Charging Power": "1",
+      "Wireless LAN": "0",
+      "FM Radio Receiver": "0",
+      "GPS Antenna": "0",
+      "Camera Image Sensor": "0",
+      "Zoom": "0",
+      "Secondary Camera Placement": "0",
+      "Protection from solid materials": "0",
+      "water-resistant": "0",
+      "Talk Time": "0",
+      "Navigation Controller": "0",
+      "Focus": "0",
+      "Embedded-Hardware": "0",
+      "Battery": "0",
+      "Resolution": "0"
+    }
+  },
+
+
+
+
+
+  {
+    "id": 6,
+
+    "name": "oppo A5",
+    "price": "43000",
+    "image": "/images/915249060.jpg",
+    "categories": "Mobile",
+    "features": {
+      "USB": "1",
+      "USB Connector": "1",
+      "Max. Charging Power": "1",
+      "Wireless LAN": "1",
+      "FM Radio Receiver": "1",
+      "GPS Antenna": "0",
+      "Camera Image Sensor": "1",
+      "Zoom": "1",
+      "Secondary Camera Placement": "1",
+      "Protection from solid materials": "0",
+      "water-resistant": "1",
+      "Talk Time": "0",
+      "Navigation Controller": "0",
+      "Focus": "1",
+      "Embedded-Hardware": "0",
+      "Battery": "1",
+      "Resolution": "1"
+    }
+  },
+  {
+    "id": 4,
+    "name": "iphone x max",
+    "price": "100000",
+    "image": "/images/1226352578.png",
+    "categories": "Mobile",
+    "features": {
+      "USB": "1",
+      "USB Connector": "1",
+      "Max. Charging Power": "1",
+      "Wireless LAN": "1",
+      "FM Radio Receiver": "1",
+      "GPS Antenna": "1",
+      "Camera Image Sensor": "1",
+      "Zoom": "1",
+      "Secondary Camera Placement": "1",
+      "Protection from solid materials": "0",
+      "water-resistant": "0",
+      "Talk Time": "1",
+      "Navigation Controller": "0",
+      "Focus": "0",
+      "Embedded-Hardware": "1",
+      "Battery": "1",
+      "Resolution": "1"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy Note 20 Ultra",
+    "price": "250000",
+    "image": "/images/1661672773.jpg",
+    "categories": "Mobile",
+    "features": {
+      "USB": "1",
+      "USB Connector": "1",
+      "Max. Charging Power": "1",
+      "Wireless LAN": "1",
+      "FM Radio Receiver": "1",
+      "GPS Antenna": "1",
+      "Camera Image Sensor": "1",
+      "Zoom": "1",
+      "Secondary Camera Placement": "1",
+      "Protection from solid materials": "1",
+      "water-resistant": "1",
+      "Talk Time": "1",
+      "Navigation Controller": "1",
+      "Focus": "1",
+      "Embedded-Hardware": "1",
+      "Battery": "1",
+      "Resolution": "1"
+    }
+  }
+
+]

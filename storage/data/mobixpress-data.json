@@ -1,0 +1,16 @@
+[
+  {"id":"4",
+    "pro_name":"iphone x max",
+    "pro_code":"001",
+    "pro_price":"100000",
+    "pro_info":"iphone x max with 64gb in white colour, with best camera",
+    "image":"1226352578.png",
+    "spl_price":"100000",
+    "categories":"Mobile",
+    "brands":"Apple",
+    "created_at":null,
+    "updated_at":null},
+  {"id":"6","pro_name":"oppo A5","pro_code":"002","pro_price":"43000","pro_info":"oppo A5 have a best camera which we never experienced yet","image":"915249060.jpg","spl_price":"43000","categories":"Mobile","brands":"Oppo","created_at":null,"updated_at":null},
+  {"id":"7","pro_name":"Huawei Tab 3","pro_code":"121","pro_price":"1","pro_info":"Huawei tablet is best and now upgraded version pie is noow available in it.","image":"1608285412.jpg","spl_price":"1","categories":"Ipad","brands":"Huawei","created_at":null,"updated_at":null},
+  {"id":"8","pro_name":"AirPods 2","pro_code":"012","pro_price":"22000","pro_info":"Wireless Airpods Of apple","image":"641411549.jpg","spl_price":"22000","categories":"Accessories","brands":"Apple","created_at":null,"updated_at":null}
+]

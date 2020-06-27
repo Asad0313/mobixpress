@@ -1,0 +1,16 @@
+.btn_compare
+{
+    color: white;
+    background-color: orange;
+}
+.preview.col-md-6 .tab-pane.active img {
+    width: 100%;
+}
+.view_rating{    color: white;
+    background-color: orange;
+    padding: 7px 20px;
+    font-size: 14px;
+    text-transform: uppercase;}
+.rating .stars span.fa {
+    color: orange;
+}
